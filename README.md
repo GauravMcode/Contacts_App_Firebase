@@ -4,7 +4,7 @@ It is a contacts app that saves your contacts to **firebase real-time database**
 >This enables you to access your contacts from any device.
 
 <p align="center">
-<img  src="https://github.com/GauravMcode/Contacts_App_Firebase/blob/main/assets/contactsApp.gif"  width="300" height="600" >
+<img  src="https://raw.githubusercontent.com/GauravMcode>/Contacts_App_Firebase/main/assets/contactsApp.gif"  width="300" height="600" >
 </p>
 
 ## Getting Started
