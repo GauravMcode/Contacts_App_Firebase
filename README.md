@@ -1,6 +1,7 @@
 # firebasedb
 
-A new Flutter project.
+It is a contacts app that saves your contacts to firebase real-time database and also the profile pic in firebase storage. This enables you to access your contacts from any device.
+
 
 ## Getting Started
 

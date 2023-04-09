@@ -42,6 +42,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Contact App"),
+        centerTitle: true,
       ),
       body: Container(
         margin: const EdgeInsets.only(top: 10.0),
@@ -97,7 +98,7 @@ class _HomePageState extends State<HomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: navigateToAddContact,
-        child: Icon(Icons.add),
+        child: const Icon(Icons.add),
       ),
     );
   }
